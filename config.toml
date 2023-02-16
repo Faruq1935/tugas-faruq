@@ -1,0 +1,47 @@
+baseURL = "/"
+languageCode = "id-id"
+title = "Arsip Tugas Faruq"
+theme="archie"
+copyright = "© Athul"
+# Code Highlight
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate=3 # articles per page
+
+[params]
+	mode="auto" # color-mode → light,dark,toggle or auto
+	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
+	subtitle = "kumpulan-arsip-tugas-Faruq$"
+	mathjax = true # enable MathJax support
+	katex = true # enable KaTeX support
+
+# Social Tags
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/Faruq1935"
+
+# Main menu Items
+
+[[menu.main]]
+name = "Beranda"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Tugas"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Tentang"
+url = "https://sinauriyen.my.id/"
+weight = 3
+
+[[menu.main]]
+name = "Tag"
+url = "/tags"
+weight = 4
