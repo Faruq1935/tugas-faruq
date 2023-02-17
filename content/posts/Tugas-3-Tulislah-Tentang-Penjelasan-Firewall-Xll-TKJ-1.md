@@ -13,7 +13,7 @@ tags: "Administrasi_Sistem_Jaringan"
 
 **Tugas 3 Tulislah Tentang Penjelasan Firewall Xll TKJ1**
 
-`Sumber video : [ penjelasan firewall ](https://youtube.com/watch?v=kDEX1HXybrU&feature=shares "link Download")`
+Sumber video : [ penjelasan firewall ](https://youtube.com/watch?v=kDEX1HXybrU&feature=shares "link Download")
 
 ### Firewall Itu Apa Ya... ?
 
